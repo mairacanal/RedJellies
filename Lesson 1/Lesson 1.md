@@ -18,4 +18,4 @@ The information would be sent through LoRa modulation to a receiver. This receiv
 
 ## Diagram
 
-![Lesson1.jpg](../resources/Lesson1.jpg)
+![Lesson1.jpg](../Resources/Lesson1.jpg)
